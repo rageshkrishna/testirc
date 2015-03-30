@@ -7,3 +7,4 @@ notifications:
  irc:
   channels:
    - "irc.rageshkrishna.com#foobar"
+   - "irc.rageshkrishna.com#fizzbin"

@@ -4,4 +4,6 @@ python:
 install: true
 script: true
 notifications:
- irc: "irc.rageshkrishna.com#foobar"
+ irc:
+  channels:
+   - "irc.rageshkrishna.com#foobar"

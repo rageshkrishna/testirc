@@ -12,3 +12,4 @@ notifications:
  irc:
   - "irc.rageshkrishna.com#foobar"
   - "irc.rageshkrishna.com#fizzbin"
+  - "chat.freenode.net#sh-test"

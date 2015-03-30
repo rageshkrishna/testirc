@@ -5,6 +5,5 @@ install: true
 script: true
 notifications:
  irc:
-  channels:
-   - "irc.rageshkrishna.com#foobar"
-   - "irc.rageshkrishna.com#fizzbin"
+  - "irc.rageshkrishna.com#foobar"
+  - "irc.rageshkrishna.com#fizzbin"

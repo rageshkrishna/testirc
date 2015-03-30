@@ -4,6 +4,11 @@ python:
 install: true
 script: true
 notifications:
+ email: 
+  recipients:
+   - "ragesh@rageshkrishna.com"
+  on_success: always
+  on_failure: always
  irc:
   - "irc.rageshkrishna.com#foobar"
   - "irc.rageshkrishna.com#fizzbin"

@@ -10,6 +10,7 @@ notifications:
   on_success: always
   on_failure: always
  irc:
-  - "irc.rageshkrishna.com#foobar"
-  - "irc.rageshkrishna.com#fizzbin"
-  - "chat.freenode.net#sh-test"
+  pull_request: true
+  channels:
+   - "irc.rageshkrishna.com#foobar"
+   - "irc.rageshkrishna.com#fizzbin"
